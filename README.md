@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on ANY DEVELOPMENT PROJECTS
 - 🧑‍💻 Tech I work on :
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="60" height="50"/>
