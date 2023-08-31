@@ -1,6 +1,6 @@
+  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 - 👋 Hi, I’m @Lingesh15
-- 👀 I’m interested in APP DEVELOPMENT
-- 🌱 I’m currently learning FLUTTER
+- 👀 I’m interested in APP DEVELOPMENT and DEVOPS
 - 💞️ I’m looking to collaborate on ANY DEVELOPMENT PROJECTS
 - 📫 How to reach me @arumugamperumal471@gmail.com
 
