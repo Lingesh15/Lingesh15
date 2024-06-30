@@ -39,6 +39,7 @@ Here you can find my personal projects.
 ## Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white)](mailto:lingesh.p.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin)](https://linkedin.com/in/lingesh-perumal-a90130223)
+[![Medium](https://img.shields.io/badge/Medium-Profile-12100E?logo=medium)](https://medium.com/@arumugamperumal471)
 
 
 <!---
