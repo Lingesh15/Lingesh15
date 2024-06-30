@@ -14,7 +14,7 @@ Here you can find my personal projects.
 <a href="https://github.com/Lingesh15">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingesh15&layout=compact&theme=radical" />
 </a>
-<br/>
+</br>
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lingesh15&theme=radical&hide_border=false" />
 
 ## Tools & Technologies I use
