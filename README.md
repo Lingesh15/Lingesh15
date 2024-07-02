@@ -8,14 +8,14 @@ Here you can find my personal projects.
 
 ## GitHub Stats
 
-<a href="https://github.com/Lingesh15">
+<a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lingesh15&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/Lingesh15">
+<a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingesh15&layout=compact&theme=radical" />
 </a>
 </br>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lingesh15&theme=radical&hide_border=false" />
+
 
 ## Tools & Technologies I use
 
